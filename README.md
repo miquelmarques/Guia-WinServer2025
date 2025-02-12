@@ -17,54 +17,54 @@ Aquest repositori és una guia pràctica amb exemples i instruccions pas a pas, 
 
 ## ÍNDEX
 
-[**0\. Recordatoris 2**](#)
+[**0\. Recordatoris**](guia/WinServer25.md#A1)
 
-[**1\. Configuració VM 2**](#)
+[**1\. Configuració VM**](guia/WinServer25.md#A2)
 
-[**2\. Instal·lacio VM 3**](#)
+[**2\. Instal·lacio VM**](guia/WinServer25.md#A3)
 
-[**3\. Configuracio nom i DNS 8**](#)
+[**3\. Configuracio nom i DNS**](guia/WinServer25.md#A4)
 
-[**4\. Configuració del servidor de noms 9**](#)
+[**4\. Configuració del servidor de noms**](guia/WinServer25.md#A5)
 
-[**5\. Domini en nou bosc amb nom soXX.test i nivell funcional 2025 9**](#)
+[**5\. Domini en nou bosc amb nom soXX.test i nivell funcional 2025**](guia/WinServer25.md#A6)
 
-[**6\. Resum procés promoció domini i comandes PowerShell 15**](#)
+[**6\. Resum procés promoció domini i comandes PowerShell**](guia/WinServer25.md#A7)
 
-[**7\. Creació de reenviador condicional 16**](#)
+[**7\. Creació de reenviador condicional**](guia/WinServer25.md#A8)
 
-[**8\. Canvi horari 18**](#)
+[**8\. Canvi horari**](guia/WinServer25.md#A9)
 
-[**9\. Creacio de l’estructura OUs 18**](#)
+[**9\. Creacio de l’estructura OUs**](guia/WinServer25.md#A10)
 
-[**10\. Crear disc compartit 20**](#)
+[**10\. Crear disc compartit**](guia/WinServer25.md#A11)
 
-[10.1. Formatar disc 21](#)
+[10.1. Formatar disc](guia/WinServer25.md#A11.1)
 
-[10.2. Crear carpeta i configurar permisos 22](#)
+[10.2. Crear carpeta i configurar permisos](guia/WinServer25.md#A11.2)
 
-[10.3. Permisos de xarxa 23](#)
+[10.3. Permisos de xarxa](guia/WinServer25.md#A11.2.1)
 
-[10.4. Permisos NTFS 23](#)
+[10.4. Permisos NTFS](guia/WinServer25.md#A11.2.2)
 
-[**11\. Creació de grups 26**](#)
+[**11\. Creació de grups**](guia/WinServer25.md#A12)
 
-[**12\. Creació de plantilles d’usuari 27**](#)
+[**12\. Creació de plantilles d’usuari**](guia/WinServer25.md#A13)
 
-[**13\. Creació d’un ordinador 30**](#)
+[**13\. Creació d’un ordinador**](guia/WinServer25.md#A14)
 
-[13.1. Configurar la máquina Windows 11 31](#)
+[13.1. Configurar la máquina Windows 11](guia/WinServer25.md#A14.1)
 
-[**P1 GPO 32**](#)
+[**P1 GPO **](guia/WinServer25.md#P1)
 
-[**P2 Desplegament d’aplicacions 39**](#)
+[**P2 Desplegament d’aplicacions**](guia/WinServer25.md#P2)
 
-[**P3 Perfils 44**](#)
+[**P3 Perfils**](guia/WinServer25.md#P3)
 
-[**P4 Redirecció de Carpetes 48**](#)
+[**P4 Redirecció de Carpetes**](guia/WinServer25.md#P4)
 
-[**P5 Monotritzacio 51**](#)
+[**P5 Monotritzacio**](guia/WinServer25.md#P5)
 
-[**P6 Adm. Remota i delegació 56**](#)
+[**P6 Adm. Remota i delegació**](guia/WinServer25.md#P6)
 
-[Activitat: AA6 Delegació 58](#)
+[Activitat: AA6 Delegació](guia/WinServer25.md#AA6)
