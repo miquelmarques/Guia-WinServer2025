@@ -29,13 +29,13 @@
 
 # 3.  <a name="A3"></a><a name="3"></a>**Instal·lacio VM**
 
-<img alt="Selecció d'idioma en Àngles i seleccio de format hora en Espanyol" src="images/WinServer/image002.png">
+<img alt="Selecció d'idioma en Àngles i seleccio de format hora en Espanyol" src="images/WinServer/image003.png">
 
-<img alt="Selecció de teclat en Espanyol" src="images/WinServer/image003.png">
+<img alt="Selecció de teclat en Espanyol" src="images/WinServer/image005.png">
 
-<img alt="Instalació Windows Server" src="images/WinServer/image004.png">
+<img alt="Instalació Windows Server" src="images/WinServer/image007.png">
 
-<img alt="Instalacio de Windows Server Standard Desktop" src="images/WinServer/image005.png">
+<img alt="Instalacio de Windows Server Standard Desktop" src="images/WinServer/image009.png">
 
 <img alt="Contrassenya Admin" src="images/WinServer/image011.png">
 
