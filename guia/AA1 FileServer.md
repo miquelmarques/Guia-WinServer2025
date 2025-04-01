@@ -1,7 +1,7 @@
 ﻿
 # <a name="FilServer">**AA1 FILE SERVER**
 #
-# <a name="AA1.1"></a>Exercici 1: Compartició a traves del sistema d'arxius
+# <a name="AA1"></a>Exercici 1: Compartició a traves del sistema d'arxius
 
 - **Crea al server un directori anomenat shared al segon disc i dona-li permisos per lectura i executar els usuaris del domini i els per defecte pel grup Administrators.**
 

@@ -55,7 +55,7 @@ Aquest repositori és una guia pràctica amb exemples i instruccions pas a pas, 
 
 [13.1. Configurar la máquina Windows 11](guia/WinServer25.md#A14.1)
 
-[**P1 GPO **](guia/WinServer25.md#P1)
+[**P1 GPO**](guia/WinServer25.md#P1)
 
 [**P2 Desplegament d’aplicacions**](guia/WinServer25.md#P2)
 
@@ -68,3 +68,24 @@ Aquest repositori és una guia pràctica amb exemples i instruccions pas a pas, 
 [**P6 Adm. Remota i delegació**](guia/WinServer25.md#P6)
 
 [Activitat: AA6 Delegació](guia/WinServer25.md#AA6)
+
+### File Server 
+
+[**1. Compartir arxius via explorador d'arxius**](guia/AA1%20FileServer.md/#AA1)
+
+[**2. Compartir arxius via File Server Resource Manager (FSRM)**](guia/AA1%20FileServer.md/#AA2)
+
+[**3. Compartir arxius via PowerShell**](guia/AA1%20FileServer.md/#AA3)
+
+[**4. Compartir carpetes ocultes i el seu funcionament**](guia/AA1%20FileServer.md/#AA4)
+
+### Gestor de Quotes
+
+[**1. Modificació de Quotes NTFS**](guia/AA2%20Quotes%20FSRM.md/#AA1)
+
+[**2. Getsió de quotes amb FSRM**](guia/AA2%20Quotes%20FSRM.md/#AA2)
+
+[**3. Getsió de tipus d'arxiu amb FSRM**](guia/AA2%20Quotes%20FSRM.md/#AA3)
+
+[**4. Getsió de periode de temps amb FSRM**](guia/AA2%20Quotes%20FSRM.md/#AA4)
+
