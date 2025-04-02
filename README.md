@@ -71,36 +71,36 @@ Aquest repositori és una guia pràctica amb exemples i instruccions pas a pas, 
 
 ### File Server 
 
-[**1. Compartir arxius via explorador d'arxius**](guia/AA1%20FileServer.md/#AA1)
+[**1. Compartir arxius via explorador d'arxius**](guia/AA1_FileServer.md/#AA1)
 
-[**2. Compartir arxius via File Server Resource Manager (FSRM)**](guia/AA1%20FileServer.md/#AA2)
+[**2. Compartir arxius via File Server Resource Manager (FSRM)**](guia/AA1_FileServer.md/#AA2)
 
-[**3. Compartir arxius via PowerShell**](guia/AA1%20FileServer.md/#AA3)
+[**3. Compartir arxius via PowerShell**](guia/AA1_FileServer.md/#AA3)
 
-[**4. Compartir carpetes ocultes i el seu funcionament**](guia/AA1%20FileServer.md/#AA4)
+[**4. Compartir carpetes ocultes i el seu funcionament**](guia/AA1_FileServer.md/#AA4)
 
 ### Gestor de Quotes
 
-[**1. Modificació de Quotes NTFS**](guia/AA2%20Quotes%20FSRM.md/#AA1)
+[**1. Modificació de Quotes NTFS**](guia/AA2_Quotes_FSRM.md/#AA1)
 
-[**2. Getsió de quotes amb FSRM**](guia/AA2%20Quotes%20FSRM.md/#AA2)
+[**2. Getsió de quotes amb FSRM**](guia/AA2_Quotes_FSRM.md/#AA2)
 
-[**3. Getsió de tipus d'arxiu amb FSRM**](guia/AA2%20Quotes%20FSRM.md/#AA3)
+[**3. Getsió de tipus d'arxiu amb FSRM**](guia/AA2_Quotes_FSRM.md/#AA3)
 
-[**4. Getsió de periode de temps amb FSRM**](guia/AA2%20Quotes%20FSRM.md/#AA4)
+[**4. Getsió de periode de temps amb FSRM**](guia/AA2_Quotes_FSRM.md/#AA4)
 
 ### Servidor d'Impressió
 
-[**1. Printer Pooling**](guia/AA3%20Servidor%20de%20Impresions.md/#AA1)
+[**1. Printer Pooling**](guia/AA3_Servidor_de_Impresions.md/#AA1)
 
-[**2. Permisos Impressores**](guia/AA3%20Servidor%20de%20Impresions.md/#AA2)
+[**2. Permisos Impressores**](guia/AA3_Servidor_de_Impresions.md/#AA2)
 
 ### DFS Manager
 
 
-[**1. Creació de espai de noms**](guia/DFS%20Manager.md/#DFS1)
+[**1. Creació de espai de noms**](guia/DFS_Manager.md/#DFS1)
 
-[**2. Duplicació DFS**](guia/DFS%20Manager.md/#DFS2)
+[**2. Duplicació DFS**](guia/DFS_Manager.md/#DFS2)
 
 
 
