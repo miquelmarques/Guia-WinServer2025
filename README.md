@@ -89,3 +89,20 @@ Aquest repositori és una guia pràctica amb exemples i instruccions pas a pas, 
 
 [**4. Getsió de periode de temps amb FSRM**](guia/AA2%20Quotes%20FSRM.md/#AA4)
 
+### Servidor d'Impressió
+
+[**1. Printer Pooling**](guia/AA3%20Servidor%20de%20Impresions.md/#AA1)
+
+[**2. Permisos Impressores**](guia/AA3%20Servidor%20de%20Impresions.md/#AA2)
+
+### DFS Manager
+
+
+[**1. Creació de espai de noms**](guia/DFS%20Manager.md/#DFS1)
+
+[**2. Duplicació DFS**](guia/DFS%20Manager.md/#DFS2)
+
+
+
+#
+# Guia-WinServer2025 © 2025 by Miquel Marquès Bravo is licensed under [CC BY-NC 4.0 ](https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1)
