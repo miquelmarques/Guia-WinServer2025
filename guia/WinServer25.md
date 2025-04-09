@@ -364,27 +364,27 @@ I el filtratge es queda per tots els usuaris, ja que solament aplicarà en aquel
 
     Taskmgr>>> Performance>>>CPU
 
-   <img src="images/WinServer/image134.png" alt="Consum CPU">
+   <img src="images/WinServer/image136.png" alt="Consum CPU">
 
     Taskmgr>>> Performance>>>RAM
 
-   <img src="images/WinServer/image136.png" alt="Consum RAM">
+   <img src="images/WinServer/image138.png" alt="Consum RAM">
 
 1. **Configureu el sistema per auditar els inicis de sessió dels usuaris (tant els bons com els intents fallits)**
 
    Group Policy Management >>> GPO: Default Domain Policy Control >>> Clic dret: Edit>>>Computer Preferences >>> Windows Settings >>> Security Settings >>> Local Polices >>> Audit Polices 
 
-   <img src="images/WinServer/image138.png" alt="Politica auditoria d'inici de sessio">
+   <img src="images/WinServer/image140.png" alt="Politica auditoria d'inici de sessio">
 
-   <img src="images/WinServer/image140.png" alt="Politica auditoria d'inici de sessio 2">
+   <img src="images/WinServer/image142.png" alt="Politica auditoria d'inici de sessio 2">
 
 1. **Cercar un log relatiu a Security al Event Viewer. Buscar informació addicional a partir del seu ID.**
 
-<img src="images/WinServer/image142.png" alt="Propietats del LOG">
+<img src="images/WinServer/image144.png" alt="Propietats del LOG">
 
 1. **Proveu a fer accessos incorrectes al domini i documenteu com queden registrats.**
 
-   <img src="images/WinServer/image144.png" alt="Event de autenticació fallit">
+   <img src="images/WinServer/image146.png" alt="Event de autenticació fallit">
 
     Queden enregistrats com audit failure i que  la categoria prove de Kerberos Authentication Service. També queda registrat amb quin nom d’usuari es volia accedir a la maquina i quina maquina ha estat en la que han volgut accedir aquest( IP)
 
@@ -392,7 +392,7 @@ I el filtratge es queda per tots els usuaris, ja que solament aplicarà en aquel
 
    Server Manager >>> BPA Results
 
-   <img src="images/WinServer/image146.png" alt="BPA Result del Server Manager">
+   <img src="images/WinServer/image148.png" alt="BPA Result del Server Manager">
 
 1. **Monitor de fiabilitat**
 
@@ -402,21 +402,21 @@ I el filtratge es queda per tots els usuaris, ja que solament aplicarà en aquel
 
    Group Policy Management >>> GPO: Default Domain Policy Control >>> Clic dret: Edit>>>Computer Preferences >>> Windows Settings >>> Security Settings >>> Local Polices >>> Audit Polices 
 
-   <img src="images/WinServer/image148.png" alt="Politica d'object access">
+   <img src="images/WinServer/image150.png" alt="Politica d'object access">
 
     I ara pots veure i pots auditar qui pot accedir a uns arxius qui ho elimina o depen 
 
    Carpeta ha auditar >>> Clic dret: Propierties >>> Security >>> Advanced >>> Auditing 
 
-   <img src="images/WinServer/image150.png" alt="Auditoria de la carpeta comuna">
+   <img src="images/WinServer/image152.png" alt="Auditoria de la carpeta comuna">
 
    I seguidament anar a la GPO i configura les propietats avançades de audit.
 
    Group Policy Management >>> GPO: Default Domain Policy Control >>> Clic dret: Edit>>>Computer Preferences >>> Windows Settings >>> Security Settings >>> Advanced Audit Policy Configuration >>> Audit Policies >>> Object Acces >>> Audit file system i Audit Handle Manipulation
 
-   <img src="images/WinServer/image152.png" alt="Politica de manipulació manual">
+   <img src="images/WinServer/image154.png" alt="Politica de manipulació manual">
 
-   <img src="images/WinServer/image154.png" alt="Politica de Sistema de fitxers">
+   <img src="images/WinServer/image156.png" alt="Politica de Sistema de fitxers">
 
 
 
@@ -428,21 +428,21 @@ I el filtratge es queda per tots els usuaris, ja que solament aplicarà en aquel
 
    Settings>>>System>>>Optional features >>>View features>>> Buscar:RSAT i afegir RSAT Server Manager i  RSAT Active Directori…
 
-   <img src="images/WinServer/image156.png" alt="Instal·lació del servei RSAT">
+   <img src="images/WinServer/image158.png" alt="Instal·lació del servei RSAT">
 
 1. **Afegir servidor**
 
    Server Manager>>>Add other servers to manage>>>Buscar el servidor
 
-   <img src="images/WinServer/image158.png" alt="Afegir un servidor del domini">
+   <img src="images/WinServer/image160.png" alt="Afegir un servidor del domini">
 
 1. **Afegir un grup/usuari en què pugui delegar el servidor**
 
    Servidor>>>Active Directory Users and Computers>>>Clic dret (Sobre la OU): Delegate Control
 
-   <img src="images/WinServer/image160.png" alt="Delegació de Control a IT">
+   <img src="images/WinServer/image162.png" alt="Delegació de Control a IT">
 
-   <img src="images/WinServer/image162.png" alt="Elements que delega IT">
+   <img src="images/WinServer/image164.png" alt="Elements que delega IT">
 
  ## <a name="AA6"></a>**Activitat: AA6 Delegació**
 
@@ -450,9 +450,9 @@ I el filtratge es queda per tots els usuaris, ja que solament aplicarà en aquel
 
    Active Directory User and Computers>>> Clic dret(sobre l’OU)New >>> User
 
-   <img src="images/WinServer/image164.png" alt="Creació d'un usuari">
+   <img src="images/WinServer/image166.png" alt="Creació d'un usuari">
 
-   <img src="images/WinServer/image166.png" alt="Captura de usuaris">
+
 
 
 1. **Delega el control de l'OU Mataró per aquest usuari amb les següents regles:**
