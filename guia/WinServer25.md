@@ -327,35 +327,37 @@ I el filtratge es queda per tots els usuaris, ja que solament aplicarà en aquel
 
    <img src="images/WinServer/image120.png" alt="Coipian un usuari per comprovar el perfil">
 
+   <img src="images/WinServer/image122.png" alt="Comprovació de perfil mobil">
+
    Un cop fet l'usuari anem a la màquina client i provem d’accedir amb el nou compte.
 
     I comprovem que la màquina s’ha creat.
 
-   <img src="images/WinServer/image122.png" alt="Comprovació de perfil mobil">
+   <img src="images/WinServer/image124.png" alt="Comprovació de perfil mobil">
 
 1. **Configurar una GPO que esborra usuaris més antics que X temps**
 
    GPO>>>Clic dret: edit>>> Computer preferences >>> Administrative Templates >>> System >>> User Profiles >>> Delete user profiles older than…
 
-   <img src="images/WinServer/image124.png" alt="GPO de elmimnar perfils antics">
+   <img src="images/WinServer/image126.png" alt="GPO de elmimnar perfils antics">
 
  # <a name="P4"></a>**P4 Redirecció de Carpetes**
 1. **Configurar una directiva per tal que els usuaris del grup gestio, encaminin la carpeta Documentos a una carpeta que també anomenarem Documentos, dins la seva carpeta personal en xarxa (compte no la carpeta de perfil).**
 
    Group Policy Management>>>Situat sobre l'OU de Mataró>>> New GPO>>> Edit>>> User Configuration>>>Windows Settings>>>Folder redirection>>>Documents propierties
 
-   <img src="images/WinServer/image126.png" alt="Redireccio carpeta documents a la home folder">
+   <img src="images/WinServer/image128.png" alt="Redireccio carpeta documents a la home folder">
 
    I un cop aplicat filtrem la GPO.
 
-   <img src="images/WinServer/image128.png" alt="Filtratge per grup">
-   <img src="images/WinServer/image130.png" alt=" Filtratge grup a traves de delegation">
+   <img src="images/WinServer/image130.png" alt="Filtratge per grup">
+   <img src="images/WinServer/image132.png" alt=" Filtratge grup a traves de delegation">
 
 1. **Documenteu el correcte funcionament del procés.**
 
    Un cop ho tenim tot fet fem un **gpupdate /force** en què ens demanarà tancar sessió i tornar a entrar i un cop fet entrem a la carpeta de documents i provem de crear un arxiu i també podem veure que a la carpeta apareix una icona de sincronització.
 
-   <img src="images/WinServer/image132.png" alt="Comprovacio redirrecio">
+   <img src="images/WinServer/image134.png" alt="Comprovacio redirrecio">
 # <a name="P5"></a>**P5 Monotritzacio**
 
 1. **Fer una captura de l'estat del servidor: consum CPU,RAM ...**
